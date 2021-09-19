@@ -1,5 +1,5 @@
 const fs = require('fs');
-var cuid = require('cuid')
+var cuid = require('cuid');
 
 const DB_FILE = 'db/db.json';
 
